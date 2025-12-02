@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Textract AI - Intelligent Document Processing",
+  "description": "A serverless-style document analysis tool using AI to extract text, forms, and tables from images with instant summarization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
